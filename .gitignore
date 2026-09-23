@@ -1,0 +1,26 @@
+# Sistema operativo y editores
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Dependencias y artefactos de compilación
+node_modules/
+dist/
+build/
+coverage/
+.cache/
+
+# Variables locales
+.env
+.env.*
+!.env.example
+
+# Material fuente y capturas externas no necesarios para publicar la landing
+media/
+Formula Student Vitoria.mhtml
+Kminus - Escuela de Ingeniería de Vitoria-Gasteiz - EHU.html
+Kminus - Escuela de Ingeniería de Vitoria-Gasteiz - EHU_files/
