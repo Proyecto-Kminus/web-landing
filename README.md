@@ -1,2 +1,2 @@
 # web-landing
-Landing page proyecto kminus
+Landing page proyecto k-minus
